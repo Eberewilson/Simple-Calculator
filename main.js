@@ -35,6 +35,6 @@ clear.addEventListener('click', () => {
 percent.addEventListener('click', () => {
      let currentValueNum = percent.getAttribute('%');
      let newValueNum = currentValueNum / 100;
-     //newValueNum  = output1.textContent; WORK ON THIS!! IT DOESNT WORK!!
+     //newValueNum  = output1.textContent; PERCENT DOES NOT WORK, CAN'T SEEM TO KNOW WHY!!
 
 })
